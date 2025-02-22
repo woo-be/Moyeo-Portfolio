@@ -4,10 +4,18 @@
 ## 서비스 개요
 #### Moyeo - 모두의 여행, 여행의 모든 것
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=여행후기+여행멤버모집+여행계획+플랫폼;)](https://git.io/typing-svg)
-#### 주요기능
+## 프로젝트 소개
 여행 후기를 기록하고 게시하여, 여행지에 대한 정보를 공유할 수 있습니다.  또한 같이 갈 여행 인원들을 모집하거나 다른 사람의 여행에 참가해보세요. 그 이후에, 온라인에서 여행 동행자들과 실시간으로 여행을 계획할 수 있습니다.
+## 주요 기능 소개
+### 여행 후기 게시판 - 여행 후기를 기록하고 다른 사람들과 공유해 보세요.
+![](./project_img/Trip_Review.png)
+### 멤버 모집 게시판 - 동행자를 모집하거나 다른 사람들의 여행에 동행해 보세요.
+![](./project_img/Member_Recruit.png)
+### 여행 관리 - 온라인에서 실시간으로 동행자들과 여행을 계획해 보세요.
+![](./project_img/Trip_Manage1.png)
+![](./project_img/Trip_Manage2.png)
 ## 프로젝트 일정
-![](/TIMELINE.png)
+![](./project_img/TIMELINE.png)
 
 ## ERD
 ![](./project_img/DB_ERD.png)
@@ -32,3 +40,12 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
 ## 팀 소개
+* [손창우](https://github.com/woo-be)
+
+* [김성모](https://github.com/kimsungmo0108)
+
+* [김유진](https://github.com/tasty13)
+
+* [정희준](https://github.com/chlorella71)
+
+* [조용훈](https://github.com/choyonghun)
